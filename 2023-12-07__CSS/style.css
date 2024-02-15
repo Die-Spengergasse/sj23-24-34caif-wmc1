@@ -1,7 +1,0 @@
-body {
-    font-size: 2rem;
-}
-article * {
-    color: red;
-    transition: background 1s;
-}
