@@ -1,5 +1,11 @@
 # sj23-24-34caif-wmc1
 
-## Abgabe Travel Website Challenge
+## Repository mit Lehrmaterial
 
-### Abgabe spätestens 22. Jänner 2023 23:59!!
+## Wie komme ich zu einer Note?
+
+-   51% Mitarbeit
+-   49% 3 Projekte
+    -   a) geführt
+    -   b) candycrush
+    -   c) whatsapp clone
