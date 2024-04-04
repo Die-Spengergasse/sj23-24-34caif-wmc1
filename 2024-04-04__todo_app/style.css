@@ -1,0 +1,9 @@
+body {
+    background: lightgoldenrodyellow;
+    color: brown;
+    margin: 3em;
+    text-align: center;
+}
+li {
+    list-style: none;
+}
