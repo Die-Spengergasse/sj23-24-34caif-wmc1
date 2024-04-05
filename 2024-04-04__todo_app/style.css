@@ -1,8 +1,7 @@
 body {
     background: lightgoldenrodyellow;
     color: brown;
-    margin: 3em;
-    text-align: center;
+    display: grid;
 }
 li {
     list-style: none;
