@@ -54,7 +54,7 @@ verwenden, und mittels Javascript die berechneten Werte setzen. Beispiel:
 }
 ```
 
-## Weiterführend:
+## Weiterführend
 
--   [Dokumentation MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
--   [Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjPv5tfS82UF_iQgFp4Bl998)
+- [Dokumentation MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
+- [Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjPv5tfS82UF_iQgFp4Bl998)
